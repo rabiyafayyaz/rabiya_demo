@@ -1,4 +1,4 @@
 # rabiya_demo
 This is my first Git Repository.
 <br>
-Author_Rabiya Fayyaz
+Author_Rabiya (Apna College)
